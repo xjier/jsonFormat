@@ -2,8 +2,7 @@
 /* CSS Document */
 div.ControlsRow, div.HeadersRow {
 	font-family: Georgia;
-    height: 145px;
-    overflow: hidden;
+    min-height: 145px;
 }
 body {
     margin: 0px 8px;
